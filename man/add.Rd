@@ -12,7 +12,7 @@ add(x, y)
 \item{y}{Another numeric vector}
 }
 \value{
-A numeric vector of the same legnth of the longest amongs `x` and `y`.
+A numeric vector of the same length of the longest among `x` and `y`.
 }
 \description{
 Add two numeric vectors
