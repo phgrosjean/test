@@ -3,7 +3,7 @@
 #' @param x A numeric vector
 #' @param y Another numeric vector
 #'
-#' @return A numeric vector of the same legnth of the longest amongs `x` and `y`.
+#' @return A numeric vector of the same length of the longest among `x` and `y`.
 #' @export
 #'
 #' @examples
